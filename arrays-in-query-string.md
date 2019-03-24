@@ -26,3 +26,8 @@ can be converted to the JSON
 ```json
 {filters: [{count: 1, name: 2}]}
 ```
+
+Language | Framwork     | key=value         |key[]=value|key[index]=value
+| ----------| ---------- | ---------- | ---------- |---------- |
+|Javascript| Jquery       | With `traditional: true` flag when calling $.ajax or $.get       | | 
+|Javascript| Angular  1     | Default behaviour       || 
