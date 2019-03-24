@@ -32,4 +32,4 @@ Language | Framework/Library     | key=value         |key[]=value|key[index]=val
 |Javascript| Jquery       | With `traditional: true` flag when calling $.ajax or $.get       | Default| 
 |Javascript| Angular  1     | Default behaviour       |With a work around. Add `[]` as prefix to key  | 
 | PHP       |        | |Yes|Yes|
-| Express     |        |Yes|Yes|Yes. ((Some limitations mentioned here)[https://www.convertonline.io/blog/limited-query-string-parsing-in-express])|
+| Express     |        |Yes|Yes|Yes. ([Some limitations mentioned here](https://www.convertonline.io/blog/limited-query-string-parsing-in-express))|
