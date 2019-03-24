@@ -27,7 +27,9 @@ can be converted to the JSON
 {"filters": [{"count": 1, "name": 2}]}
 ```
 
-Language | Framwork     | key=value         |key[]=value|key[index]=value
+Language | Framework/Library     | key=value         |key[]=value|key[index]=value
 | ----------| ---------- | ---------- | ---------- |---------- |
 |Javascript| Jquery       | With `traditional: true` flag when calling $.ajax or $.get       | Default| 
 |Javascript| Angular  1     | Default behaviour       |With a work around. Add `[]` as prefix to key  | 
+| PHP       |        | |Yes|Yes|
+| Express     |        |Yes|Yes|Yes|
