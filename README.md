@@ -5,4 +5,4 @@ This is a project for chering notes and tips related to handling of HTTP Query S
 ## Notes
 
 - [Limited Query String parsing in express](https://www.convertonline.io/blog/limited-query-string-parsing-in-express)
-- [Arrays in Query string in popular languages, frameworks and libraries (in progress)](/query-string-notes.md)
+- [Arrays in Query string in popular languages, frameworks and libraries (in progress)](query-string-notes)
