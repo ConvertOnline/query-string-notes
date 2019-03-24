@@ -29,5 +29,5 @@ can be converted to the JSON
 
 Language | Framwork     | key=value         |key[]=value|key[index]=value
 | ----------| ---------- | ---------- | ---------- |---------- |
-|Javascript| Jquery       | With `traditional: true` flag when calling $.ajax or $.get       | | 
+|Javascript| Jquery       | With `traditional: true` flag when calling $.ajax or $.get       | Default| 
 |Javascript| Angular  1     | Default behaviour       |With a work around. Add `[]` as prefix to key  | 
